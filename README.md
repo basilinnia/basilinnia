@@ -3,9 +3,9 @@
 
 ###
 <div>
- <img src="https://streak-stats.demolab.com?user=devbasilinnia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
-<a href="https://github.com/devbasilinnia/github-readme-stats" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbasilinnia&exclude_repo=function_visualizer&layout=compact&theme=dracula" width="350"  alt="Top Languages" />
+ <img src="https://streak-stats.demolab.com?user=basilinnia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+<a href="https://github.com/basilinnia/github-readme-stats" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilinnia&exclude_repo=function_visualizer&layout=compact&theme=dracula" width="350"  alt="Top Languages" />
 </div>
 <h2>Current Skills</h2>
 
